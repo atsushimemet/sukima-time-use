@@ -8,4 +8,8 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
+  # ChatGPT
+  https://chatgpt.com/share/69a8f6ad-7368-800e-bc7e-ba64964d4d10
+  
   
